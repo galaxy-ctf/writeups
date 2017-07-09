@@ -45,11 +45,16 @@ gccctf{th1s_i5_t0o_34sy!}
 
 Add new challenge entry like this:
 
-### category points: challenge name
+### < category> < points>: < challenge name >
 
 **Challenge**  
+the description of the challenge (from scoreboard)
+
 **Solution (team1)**  
+your solution, thought process, feedback, complaints, screenshots, anything :)
+
 **Solution (team2)**  
+
 **Flag**  
 ```
 gccctf{}
