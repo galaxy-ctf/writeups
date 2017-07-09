@@ -2,6 +2,14 @@
 
 Below are solutions to the 2017 edition of Galaxy CTF. Go ahead and add your own too!
 
+## Teams
+
+**Team:** Galaxians  
+**Members:** @erasche, @shiltemann
+
+**Team:** Team2  
+**Members:** member1, member2, member3
+
 ## Overview
 
 ```
