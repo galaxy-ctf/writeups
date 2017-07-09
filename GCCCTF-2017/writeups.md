@@ -2,6 +2,8 @@
 
 Below are solutions to the 2017 edition of Galaxy CTF. Go ahead and add your own too!
 
+![](writeupfiles/homepage.png)
+
 ## Teams
 
 **Team:** Galaxians  
