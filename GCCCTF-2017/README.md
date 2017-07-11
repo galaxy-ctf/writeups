@@ -2,4 +2,5 @@
 
 First edition of the Galaxy CTF.
 
-[view writeups](writeups.md)
+- [view writeups](writeups.md)
+- [ops writeup](ops.md)
